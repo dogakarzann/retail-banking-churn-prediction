@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data
+# We might want to keep sample data, but usually large datasets are ignored.
+# I'll leave data/raw uncommented if you want it tracked, but usually it's ignored if large.
+# data/raw/
