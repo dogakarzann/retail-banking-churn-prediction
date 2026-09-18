@@ -8,3 +8,5 @@ lightgbm
 shap
 joblib
 imbalanced-learn
+optuna
+category_encoders

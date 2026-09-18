@@ -19,3 +19,8 @@ venv.bak/
 # We might want to keep sample data, but usually large datasets are ignored.
 # I'll leave data/raw uncommented if you want it tracked, but usually it's ignored if large.
 # data/raw/
+
+# Root notebooks backup files
+*.ipynb
+
+*.egg-info/
