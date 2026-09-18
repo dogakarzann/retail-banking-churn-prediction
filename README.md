@@ -16,4 +16,4 @@ pip install -e .
 *(Running `pip install -e .` ensures that notebooks inside the `notebooks/` folder can correctly import modules from the `src/` folder without any path issues).*
 
 ---
-> **To be continued... (Devamı gelecek...)**
+> **To be continued...
